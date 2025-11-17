@@ -1,2 +1,1 @@
-# final-project
-this is the code or or final project
+this file is code for our final project
